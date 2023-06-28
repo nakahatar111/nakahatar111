@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning more in-depth about **Pytorch and Wandb** from training different kinds of models
 
-- 👨‍💻 All of my projects are available on my portfolio webpage at [https://www.ryuma-n.com/](https://www.ryuma-n.com/)
+- 👨‍💻 All of my projects are available on my portfolio webpage at [www.ryuma-n.com/](https://www.ryuma-n.com/)
 
 - 📫 Feel free to reach me at  **nakahataryuma@gmail.com**
 
