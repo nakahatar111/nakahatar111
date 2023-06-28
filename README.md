@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Ryuma Nakahata</h2>
 <h3 align="center">An aspiring machine learning engineer and a diligent graduate student at Binghamton University</h3>
 
-- 🔭 I’m currently working on [SpeechAI](https://github.com/nakahatar111/SpeechAI) as a personal project and creating a [ViT-Based Image Generator for Ptychography](https://github.com/nakahatar111/ptychography) for my graduate research
+- 🔭 I’m currently working on [SpeechAI Voice Assistant](https://github.com/nakahatar111/SpeechAI) as a personal project and creating a [ViT-Based Image Generator for Ptychography](https://github.com/nakahatar111/ptychography) for my graduate research
 
 - 🌱 I’m currently learning more in-depth about **Pytorch and Wandb** from training different kinds of models
 
@@ -9,7 +9,7 @@
 
 - 📫 Feel free to reach me at  **nakahataryuma@gmail.com**
 
-- 📄 Know about my experiences: [Link to Resume](https://drive.google.com/file/d/1PXZmC8r-leZ8wUbZWoJgYNKqmT09k_MJ/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1PXZmC8r-leZ8wUbZWoJgYNKqmT09k_MJ/view)
 
 - ⚡ Fun fact **I love to skateboard and create interesting software in my free time.**
 
