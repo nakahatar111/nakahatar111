@@ -1,17 +1,17 @@
 <h2 align="center">Hi 👋, I'm Ryuma Nakahata</h2>
 <h3 align="center">An aspiring machine learning engineer and a diligent graduate student at Binghamton University</h3>
 
-- 🔭 I’m currently working on [SpeechAI](https://github.com/nakahatar111/SpeechAI)
+- 🔭 I’m currently working on [SpeechAI](https://github.com/nakahatar111/SpeechAI) as a personal project and creating a [ViT-Based Image Generator for Ptychography](https://github.com/nakahatar111/ptychography) for my graduate research
 
-- 🌱 I’m currently learning **Django, Pytorch, Wandb**
+- 🌱 I’m currently learning more in-depth about **Pytorch and Wandb** from training different kinds of models
 
-- 👨‍💻 All of my projects are available at [https://www.ryuma-n.com/](https://www.ryuma-n.com/)
+- 👨‍💻 All of my projects are available on my portfolio webpage at [https://www.ryuma-n.com/](https://www.ryuma-n.com/)
 
-- 📫 How to reach me **nakahataryuma@gmail.com**
+- 📫 Feel free to reach me at  **nakahataryuma@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PXZmC8r-leZ8wUbZWoJgYNKqmT09k_MJ/view](https://drive.google.com/file/d/1PXZmC8r-leZ8wUbZWoJgYNKqmT09k_MJ/view)
+- 📄 Know about my experiences: [Link to Resume](https://drive.google.com/file/d/1PXZmC8r-leZ8wUbZWoJgYNKqmT09k_MJ/view)
 
-- ⚡ Fun fact **I love to skateboard and create interesting softwares in my free time.**
+- ⚡ Fun fact **I love to skateboard and create interesting software in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
