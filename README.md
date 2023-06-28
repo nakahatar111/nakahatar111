@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryuma Nakahata</h1>
+<h2 align="center">Hi 👋, I'm Ryuma Nakahata</h2>
 <h3 align="center">An aspiring machine learning engineer and a diligent graduate student at Binghamton University</h3>
 
 - 🔭 I’m currently working on [SpeechAI](https://github.com/nakahatar111/SpeechAI)
