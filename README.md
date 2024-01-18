@@ -67,7 +67,7 @@
 
 - <h3>Object Oriented Programs</h3>
 
-  - [LibraryGUI](https://github.com/nakahatar111/LibraryGUI)
+  - [Library Checkout System (with GUI)](https://github.com/nakahatar111/LibraryGUI)
   
   - [March Madness Tournament](https://github.com/nakahatar111/LeagueOOP)
  
