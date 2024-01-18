@@ -31,7 +31,7 @@
       
   - [VEU-Net for Ptychography](https://github.com/nakahatar111/ptychography)
  
-  - [SpeechAI](https://github.com/nakahatar111/SpeechAI)
+  - [SpeechAI Voice Assistant](https://github.com/nakahatar111/SpeechAI)
     
   - [TextNet: Chat Application](https://github.com/nakahatar111/AWS_react_chat)
   
@@ -53,27 +53,27 @@
  
     - [Multilayer Perceptron](https://github.com/nakahatar111/MultilayerPerceptron)
     
-    - [DCGAN for CIRFAR10](https://github.com/nakahatar111/DCGAN_for_CIRFAR10)
+    - [DCGAN for CIRFAR10 Dataset](https://github.com/nakahatar111/DCGAN_for_CIRFAR10)
     
-    - [1D GAN](https://github.com/nakahatar111/1D_GAN)
+    - [1-Dimensional GAN](https://github.com/nakahatar111/1D_GAN)
    
-  - [Text Analysis using Python](https://github.com/nakahatar111/TextAnalysis)
+  - [Sentiment Text Analysis using Python](https://github.com/nakahatar111/TextAnalysis)
  
   - [Registration Webpage](https://github.com/nakahatar111/RegistrationWebsite)
   
-  - [Binary Text Converter](https://github.com/nakahatar111/BinaryTextConverter)
+  - [Text to Binary File Converter](https://github.com/nakahatar111/BinaryTextConverter)
     
-  - [Hangman and Tic-Tac-Toe](https://github.com/nakahatar111/Python_Games)
+  - [Hangman & Tic-Tac-Toe](https://github.com/nakahatar111/Python_Games)
 
 - <h3>Object Oriented Programs</h3>
 
   - [Library Checkout System (with GUI)](https://github.com/nakahatar111/LibraryGUI)
   
-  - [March Madness Tournament](https://github.com/nakahatar111/LeagueOOP)
+  - [March Madness Tournament Simulation](https://github.com/nakahatar111/LeagueOOP)
  
-  - [Banking](https://github.com/nakahatar111/Banking)
+  - [Bank Management System](https://github.com/nakahatar111/Banking)
 
-  - [Playlist](https://github.com/nakahatar111/PlaylistOOP)
+  - [Music Playlist](https://github.com/nakahatar111/PlaylistOOP)
 
 - <h3>Graph Traversal Algorithms</h3>
   
@@ -87,7 +87,7 @@
 
   - [Recursive Mutex Implementation](https://github.com/nakahatar111/RecursiveMutex_Implementation)
 
-  - [Geometry Of Hypersphere](https://github.com/nakahatar111/GeometryOfHypersphere_usingThreads)
+  - [Geometry Of N-Dimensional Hypersphere](https://github.com/nakahatar111/GeometryOfHypersphere_usingThreads)
     
   - [Monte Carlo Integration](https://github.com/nakahatar111/MonteCarloIntegration_UsingThreads)
   
