@@ -9,7 +9,7 @@
 
 - 📫 Feel free to reach me at  **nakahataryuma@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1PXZmC8r-leZ8wUbZWoJgYNKqmT09k_MJ/view)
+- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1PXZmC8r-leZ8wUbZWoJgYNKqmT09k_MJ/view](https://drive.google.com/file/d/199bXZBSUzrJoZihgZhrs5nL3mnF9YlGm/view?usp=sharing))
 
 - ⚡ Fun fact **I love to skateboard and create interesting software in my free time.**
 
