@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Ryuma Nakahata</h2>
-<h3 align="center">An aspiring machine learning engineer and a diligent graduate student at Binghamton University</h3>
+<h3 align="center">Machine Learning Engineer at Virufy and Subject Matter Expert AI Trainer at Outlier AI</h3>
 
-- 🔭 I’m currently working on [SpeechAI Voice Assistant](https://github.com/nakahatar111/SpeechAI) as a personal project and creating [VEU-Net, a ViT-Enhanced U-Net, for image-to-image translation for Ptychography](https://github.com/nakahatar111/ptychography) for my Master's thesis
+- 🔭 I recently finished my technical paper [arXiv:2410.17377](https://arxiv.org/abs/2410.17377) and open-source the codebase [PtychoFormer: A Transformer-based Model for Ptychographic Phase Retrieval](https://github.com/nakahatar111/PtychoFormer)
 
 - 🌱 I’m currently learning more in-depth about **Pytorch and Wandb** from training different kinds of models
 
