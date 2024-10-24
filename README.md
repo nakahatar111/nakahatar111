@@ -29,7 +29,7 @@
 
 - <h3>Projects</h3>
       
-  - [VEU-Net for Ptychography](https://github.com/nakahatar111/ptychography)
+  - [PtychoFormer: A Transformer-based Model for Ptychographic Phase Retrieval](https://github.com/nakahatar111/PtychoFormer)
  
   - [SpeechAI Voice Assistant](https://github.com/nakahatar111/SpeechAI)
     
